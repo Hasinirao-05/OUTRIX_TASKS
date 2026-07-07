@@ -16,6 +16,6 @@ Algorithm: SVM + Random Forest Tools: Python, Scikit-learn, Matplotlib Goal: Cla
 
 
 
-File: copy_of_welcome_to_colab.ipynb
+File: task_3_breast_cancer.ipynb
 
 
